@@ -13,11 +13,11 @@ Data analysis focused on engine performance based on collected parameters such a
 * **`Mom_obr` (Torque RPM):** The rotational speed at which the maximum torque is available.
 ![fordfocus1](https://github.com/user-attachments/assets/5a4ddfdf-4abf-408b-a757-529e66b6b37d)
 
-### 3. Limit values
+### 2. Limit values
 ![fordfocus3](https://github.com/user-attachments/assets/e87f92a5-89ad-449b-9b0c-ea756cba59a2)
 
 
-### 2. Torque-Power Corellation
+### 3. Torque-Power Corellation
 
 ![fordfocus2](https://github.com/user-attachments/assets/55318c91-2365-4d09-877e-7234c9c70cde)
 
